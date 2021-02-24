@@ -6,14 +6,12 @@ pinned = false
 image = "weg-mit-graffiti-für-blog.jpg"
 description = "Eine Fotoserie von verschiedenen Kontrasten. Von Licht und Schatten bis zu Natur und Künstlichem."
 +++
-Bei meinen Bildern ist es sehr wichtig, dass der Kontrast sehr gut sichtbar ist, sowie dass mein Foto authentisch wirkt. 
+Eine Fotoserie von verschiedenen Kontrasten. Von Licht und Schatten bis zu Natur und Künstlichem.
 
 ![](natur-licht-und-schatten.jpg "Licht-Schatten Kontrast")
 
-
+Meine Fotografien sollen sehr authentisch wirken sowie die verschiedenen Kontraste sehr einfach veranschaulichen.
 
 ![](weg-mit-graffiti-für-blog.jpg "Kontrast von Natürlichem und Unnatürlichem")
-
-
 
 ![](baum-mit-aare-und-schatten.jpg "Abendstimmung mit Licht und Schatten")
