@@ -16,4 +16,4 @@ Bei meinen Bildern ist es sehr wichtig, dass der Kontrast sehr gut sichtbar ist,
 
 
 
-![](baum-mit-aare-und-schatten.jpg)
+![](baum-mit-aare-und-schatten.jpg "Abendstimmung mit Licht und Schatten")
