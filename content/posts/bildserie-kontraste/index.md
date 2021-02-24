@@ -9,6 +9,6 @@ image = "weg-mit-graffiti-für-blog.jpg"
 
 ![](weg-mit-graffiti-für-blog.jpg)
 
-![]()
+![](baum-mit-aare-und-schatten.jpg)
 
 ![]()
