@@ -5,7 +5,7 @@ draft = false
 pinned = false
 image = "weg-mit-graffiti-für-blog.jpg"
 +++
-![](natur-licht-und-schatten.jpg)
+![](natur-licht-und-schatten.jpg "Licht-Schatten Kontrast")
 
 ![](weg-mit-graffiti-für-blog.jpg)
 
