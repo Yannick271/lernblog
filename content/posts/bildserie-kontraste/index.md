@@ -18,6 +18,8 @@ Für diese Aufnahme eines Licht-Schatten-Kontrasts habe ich am späten Nachmitta
 
 ![](weg-mit-graffiti-für-blog.jpg "Kontrast von Natürlichem und Unnatürlichem")
 
+In diesem Bild ist der Kontrast zwischen Natürlichem und von Mensch Gebautem sehr gut ersichtlich. In dieser Fotoserie ist dies mein persönliches Lieblingsbild. Wie der Weg bei mir beginnt und sich durch die Bäume schlängelt und schliesslich im Wald verschwindet. Auch beim Graffiti kann man sehen, wie die Natur langsam die Wand langsam wieder für sich beansprucht.
+
 ![](baum-mit-aare-und-schatten.jpg "Abendstimmung mit Licht und Schatten")
 
 ![](tunnel-für-blog.jpg "Aaretunnel")
