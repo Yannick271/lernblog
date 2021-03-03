@@ -10,14 +10,14 @@ Eine Fotoserie von verschiedenen Kontrasten. Von Licht und Schatten bis zu Natur
 
 Meine Fotografien sollen sehr authentisch wirken sowie die verschiedenen Kontraste sehr einfach veranschaulichen.
 
-
-
 ![](natur-licht-und-schatten.jpg "Licht-Schatten Kontrast")
 
 Für diese Aufnahme eines Licht-Schatten-Kontrasts habe ich am späten Nachmittag die Natur an der Aare fotografiert. Für alle meine Fotografien habe ich kein Stativ oder sonstige Requisiten verwendet. Die Belichtungszeit ist dementsprechend sehr kurz. Die hier zu betrachtenden Bilder habe ich ohne Verwendung des Blitzes der Kamera geschossen. 
 
-![](tunnel-für-blog.jpg "Tunnel")
+
 
 ![](weg-mit-graffiti-für-blog.jpg "Kontrast von Natürlichem und Unnatürlichem")
 
 ![](baum-mit-aare-und-schatten.jpg "Abendstimmung mit Licht und Schatten")
+
+![](tunnel-für-blog.jpg)
