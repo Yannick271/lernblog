@@ -20,4 +20,6 @@ Für diese Aufnahme eines Licht-Schatten-Kontrasts habe ich am späten Nachmitta
 
 ![](baum-mit-aare-und-schatten.jpg "Abendstimmung mit Licht und Schatten")
 
-![](tunnel-für-blog.jpg)
+![](tunnel-für-blog.jpg "Aaretunnel")
+
+In diesem Bild musste ich den ISO-Wert sehr hoch einstellen. Dadurch ist leider das ganze Bild sehr unscharf geworden. Um dies zu vermeiden würde ich den ISO-Wert der Kamera ganz normal belassen und dafür die manuelle Helligkeit des Fotoapparats erhöhen.
